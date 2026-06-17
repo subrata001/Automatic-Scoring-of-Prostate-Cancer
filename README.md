@@ -55,9 +55,6 @@ Automatic-Scoring-of-Prostate-Cancer/
 │   ├── mask.py
 │   ├── preprocess.py
 │   └── save.py
-│
-└── examples/
-    └── sample_command.txt
 ```
 
 ## Installation
