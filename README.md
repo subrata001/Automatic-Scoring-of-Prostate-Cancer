@@ -1,7 +1,5 @@
 # Automatic Scoring of Prostate Cancer
 
-<img width="4898" height="4058" alt="workflow" src="https://github.com/user-attachments/assets/73819aa2-556b-4c4e-b461-a7058d2fceee" />
-
 Inference code for the accepted Elsevier *Intelligence Medicine* paper:
 
 **Leveraging Efficient Transfer Learning and Heuristic Algorithms for Gigapixel Histopathology Image Analysis and Automatic Scoring of Prostate Biopsy: A Multicenter Risk Stratification Study**
