@@ -1,5 +1,7 @@
 # Automatic Scoring of Prostate Cancer
 
+<img width="4898" height="4058" alt="workflow" src="https://github.com/user-attachments/assets/73819aa2-556b-4c4e-b461-a7058d2fceee" />
+
 Inference code for the accepted Elsevier *Intelligence Medicine* paper:
 
 **Leveraging Efficient Transfer Learning and Heuristic Algorithms for Gigapixel Histopathology Image Analysis and Automatic Scoring of Prostate Biopsy: A Multicenter Risk Stratification Study**
@@ -14,7 +16,7 @@ The method is designed for automatic patch-level Gleason pattern prediction and 
 2. **Stage 2:** Low-grade vs. high-grade cancer  
 3. **Stage 3:** Gleason pattern 4 vs. Gleason pattern 5  
 
-The current release is intended to support paper publication and reproducibility of inference. Training scripts and extended experimental evaluation code will be added in a later update.
+This release supports paper publication and reproducible inference. We will add training scripts and extended experimental evaluation code in a later update.
 
 ## Key Features
 
